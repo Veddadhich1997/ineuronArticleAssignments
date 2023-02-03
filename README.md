@@ -15,3 +15,6 @@ Here are the link of all the articles which were given by Hitesh Sir to write.
 
 ## CSS Position
 [CSS Position](https://veddadhich1997.hashnode.dev/css-position)
+
+## HTML Elements
+[HTML Elements](https://veddadhich1997.hashnode.dev/html-elements)
