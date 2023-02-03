@@ -9,3 +9,6 @@ Here are the link of all the articles which were given by Hitesh Sir to write.
 
 ## JavaScript Functions
 [JavaScript Functions](https://veddadhich1997.hashnode.dev/functions-in-javascript)
+
+## CSS Flex Box
+[CSS Flex Box](https://veddadhich1997.hashnode.dev/css-flex-box)
