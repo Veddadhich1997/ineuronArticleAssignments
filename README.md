@@ -18,3 +18,6 @@ Here are the link of all the articles which were given by Hitesh Sir to write.
 
 ## HTML Elements
 [HTML Elements](https://veddadhich1997.hashnode.dev/html-elements)
+
+## Input Elements
+[Input Elements](https://veddadhich1997.hashnode.dev/input-elements)
