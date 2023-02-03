@@ -21,3 +21,6 @@ Here are the link of all the articles which were given by Hitesh Sir to write.
 
 ## Input Elements
 [Input Elements](https://veddadhich1997.hashnode.dev/input-elements)
+
+## Media Queries in CSS
+[Media Query](https://veddadhich1997.hashnode.dev/media-queries-in-css)
