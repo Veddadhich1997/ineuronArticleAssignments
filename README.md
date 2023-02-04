@@ -24,3 +24,6 @@ Here are the link of all the articles which were given by Hitesh Sir to write.
 
 ## Media Queries in CSS
 [Media Query](https://veddadhich1997.hashnode.dev/media-queries-in-css)
+
+## Box Model in CSS
+[Box Model](https://veddadhich1997.hashnode.dev/css-box-model)
