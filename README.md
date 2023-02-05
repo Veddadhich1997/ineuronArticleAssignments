@@ -30,3 +30,6 @@ Here are the link of all the articles which were given by Hitesh Sir to write.
 
 ## CSS Grid
 [CSS Grid](https://veddadhich1997.hashnode.dev/css-grid)
+
+## JavaScript Objects and it's method
+[JavaScript Objects](https://veddadhich1997.hashnode.dev/javascript-object-and-its-method)
