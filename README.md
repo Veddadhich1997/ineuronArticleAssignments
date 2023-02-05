@@ -27,3 +27,6 @@ Here are the link of all the articles which were given by Hitesh Sir to write.
 
 ## Box Model in CSS
 [Box Model](https://veddadhich1997.hashnode.dev/css-box-model)
+
+## CSS Grid
+[CSS Grid](https://veddadhich1997.hashnode.dev/css-grid)
